@@ -19,7 +19,6 @@ Hey! Im Dylan L, Im 13 Years Old And Learning How To Code In HTML, PHP, JS. I Us
 <p align="left">
 <a href="https://github.com/DevDylanL">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevDylanL&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevDylanL&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
