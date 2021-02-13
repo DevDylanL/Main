@@ -1,8 +1,5 @@
 ## Hey 👋, I'm [Dylan L!](https://github.com/DevDylanL)
 
-![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)]
-
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=DevDylanL&label=Views&color=blue&style=plastic)
 
 Hey! Im Dylan L, Im 13 Years Old And Learning How To Code In HTML, PHP, JS. I Use Visual Studio Code For Coding. I Plan To Become A Hosting Company CEO When I Become Older. If You All Want To Support Me Download My Code From My Repositories👍. 
