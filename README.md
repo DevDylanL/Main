@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Dylan L!](https://github.com/DevDylanL)
 
-<img align="right" height="60" width="60" alt="" src="https://hyperz.dev/images/logo.png" />
+<img align="right" height="60" width="60" alt="" src="https://imgur.com/a/jTS14Po" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](Coming Soon)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/DevDylanL)
